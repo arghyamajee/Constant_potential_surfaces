@@ -1,0 +1,6 @@
+./Program.out 72 62 1.0 0.85 0.5 0.5 -3 1 200 200 file_phi_low.txt file_phi_up.txt 1e-12 150000 5000 53.4 0.01 4 > file_phi.txt
+
+
+
+
+
